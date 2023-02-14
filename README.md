@@ -1,7 +1,13 @@
 # Git Find
-## An application consuming data from Git API 
+## Aplicação que consome os dados da API do GitHub
 
-## Technologies:
+## Digitando o nome de usuário de um perfil do GitHub, obtém-se as respostas:
+- Imagem de perfil
+- @NomeUsuário com link para o perfil do GitHub
+- Descrição
+- Lista os repositório com nome do repositório e o Sobre do repositório
+
+## Technologias:
 - HTML5
 - CSS3
 - JavaScript
