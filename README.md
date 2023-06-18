@@ -5,7 +5,15 @@
 ## 🤔 O que é este projeto
 Este projeto é uma web aplicação feita com React Js que consome dados da API externa do GitHub
 
+## 🖥️ Será necessário ter instalado em sua máquina:
+- Node
+
 ## 💻 Como rodar esse projeto
+Instale as dependências do projeto no terminal da pasta do projeto com:
+```
+npm i
+```
+
 Para rodar o projeto, deve executar no terminal do seus sistema operacional, dentro da pasta do projeto, o comando:
 ```bash
 npm start
@@ -25,5 +33,5 @@ Uma vez que a aplicação esteja rodando, você pode fazer buscar um usuário do
 
 -----
 <p align="center">
-  Feito com ☕ por Alexandre
+  Feito com ☕ por Alexandre Conte
 </p>
